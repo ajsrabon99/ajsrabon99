@@ -26,9 +26,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajsrabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajsrabon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashrafuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrafuzzaman" height="30" width="40" /></a>
-<a href="https://fb.com/ashrafuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashrafuzzaman" height="30" width="40" /></a>
+<a href="https://twitter.com/ajsrabon99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajsrabon99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ashrafuzzaman Srabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashrafuzzaman Srabon" height="30" width="40" /></a>
+<a href="https://fb.com/Ashrafuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ashrafuzzaman" height="30" width="40" /></a>
 <a href="https://instagram.com/ashrafuzzaman_srabon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashrafuzzaman_srabon" height="30" width="40" /></a>
 </p>
 
