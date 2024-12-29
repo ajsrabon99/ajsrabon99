@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Protfolio] (https://aj-srabon-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Protfolio](https://aj-srabon-portfolio.netlify.app/)
 
 - 💬 Ask me about **Python**
 
