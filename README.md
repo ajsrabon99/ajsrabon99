@@ -1,6 +1,6 @@
 <div align="center">
   
-[![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1642425545585?e=1738800000&v=beta&t=b2kOLvOiUVtdF4pUyxYGmeuXdT3kURBU50jyT-olISQ)](https://aj-srabon-portfolio.netlify.app/)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 # 👋 Hi, I'm Ashrafuzzaman
 
