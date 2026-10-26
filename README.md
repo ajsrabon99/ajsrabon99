@@ -50,7 +50,7 @@ me.say_hi()
 ## Currently Working On
 
 - 💻 **Software Development at Divine IT:** Building application features and gaining professional software engineering experience.
-- 📱 **[Amar Hishab](https://amar-hish.netlify.app/):** Developing a personal finance platform and Android app with income/expense tracking, account balances, transaction management, authentication, APIs, and backup/restore.
+- 📱 **[Amar Hishab](https://amarhish.netlify.app/):** Developing a personal finance platform and Android app with income/expense tracking, account balances, transaction management, authentication, APIs, and backup/restore.
 - 🔧 **Full Stack Development:** Strengthening Python, Django, React, REST API integration, database management, and frontend skills.
 - 📚 **Continuous Learning:** Improving software engineering fundamentals through debugging, testing, and Git/GitHub workflows.
 
