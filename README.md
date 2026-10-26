@@ -88,6 +88,12 @@ me.say_hi()
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/a371f7/ajsrabon99" alt="GitHub contribution graph" width="100%"/>
+
+</div>
+
+<div align="center">
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ajsrabon99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajsrabon99&layout=compact&langs_count=8&theme=tokyonight" alt="Most used programming languages"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajsrabon99&theme=tokyonight" alt="GitHub contribution streak"/>
